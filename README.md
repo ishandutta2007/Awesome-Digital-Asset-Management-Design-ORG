@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Asset-Management-Design-ORG/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,7 +67,7 @@ Below is an overview of leading commercial SaaS Digital Asset Management and cre
 
 Explore the open-source ecosystem for self-hosted Digital Asset Management, visual media servers, and design system infrastructure. Repositories are ranked below in descending order by GitHub stargazers count:
 
-| Project & Repository 📦 | GitHub Stars ⭐ | Primary Focus & Capabilities 🚀 | License ⚖️ | Tech Stack 💻 |
+| Project & Repository 📦 | GitHub_Stars ⭐ | Primary Focus & Capabilities 🚀 | License ⚖️ | Tech Stack 💻 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Immich](https://github.com/immich-app/immich)** [![Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers) | **~120k+** | High-performance, self-hosted photo & video backup hub featuring CLIP semantic natural-language search, facial clustering, partner sharing, and mobile sync. | AGPL-3.0 | TypeScript, Svelte, Dart/Flutter, Python |
 | **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** [![Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) | **~97k+** | Locally-hosted one-stop web application for all digital asset PDF manipulation: OCR, watermarking, conversions, compression, page extraction, and security encryption. | GPL-3.0 | Java, Spring Boot, Thymeleaf |
@@ -112,7 +112,7 @@ We welcome community contributions! To suggest a new tool or update an existing 
 3. **Verify Guidelines**:
    - Provide direct URLs to official software homepages and GitHub source repositories.
    - For SaaS products, include verified starting tier pricing, free tier/trial limits, and company scale metrics.
-   - For open-source projects, include accurate GitHub repository star badges linking to the repository's stargazers page.
+   - For open-source projects, include accurate GitHub repository Stars_Badges linking to the repository's stargazers page.
 4. **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
